@@ -1,0 +1,82 @@
+.cancha_1{
+  width: 900px; 
+  height: 450px; 
+  background:#2EFE2E;
+  margin:0 auto;
+  position: relative;
+}
+.cancha_2{
+  width: 850px; 
+  height: 400px; 
+  margin:0 auto;
+  border: 4px solid #FFFFFF;
+  position: relative;
+  left: 0px;
+  top: 20px;
+}
+.porteria_1{
+  width: 90px; 
+  height: 150px; 
+  margin:0 auto;
+  border: 4px solid #FFFFFF;
+  position: relative;
+  right: 380px;
+  top: 115px;
+}
+.porteria_2{
+  width: 90px; 
+  height: 150px; 
+  margin:0 auto;
+  border: 4px solid #FFFFFF;
+  position: relative;
+  right: -756px;
+  top: 5px;
+  }
+  .circulo_grande{
+    width: 200px;
+    height: 200px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+    border-radius: 50%; 
+    background: #2EFE2E;
+    border: 4px solid #FFFFFF;
+    position: relative;
+    right: 440px;
+    bottom: 40px;
+}
+.jugador_1{
+    width: 20px;
+    height: 20px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+    border-radius: 50%; 
+    background:#FFFFFF;
+    position: relative;
+    right: 215px;
+    bottom: -38px;
+    border:0.5px inset #A4A4A4;
+  }
+  .jugador_2{
+    width: 20px;
+    height: 20px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+    border-radius: 50%; 
+    background:#FFFFFF;
+    position: absolute;
+    left: 1690%;
+    bottom: 450%;
+    border:0.5px inset #A4A4A4;
+  }
+.jugador_3{
+    width: 20px;
+    height: 20px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+    border-radius: 50%; 
+    background:#FFFFFF;
+    position: absolute;
+    left: 1400%;
+    top: 1000%;
+    border:0.5px inset #A4A4A4;
+  }
